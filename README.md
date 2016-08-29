@@ -1,1 +1,1 @@
-# Minera-o-de-texto
+Projeto PHP para mineração de texto
